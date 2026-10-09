@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- HEAD -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/feeder/feeder.css">
+    <title>Glubest — Feeder</title>
+</head>
+
+<!-- BODY -->
+
+<body>
+
+    <!-- MUSIC -->
+
+    <audio id="bg-music" src="/resources/glubest.mp3" preload="metadata" loop></audio>
+    
+    <!-- BACK TO MENU BUTTON (TOP-LEFT) -->
+
+    <button class="button back-to-feed-button" onclick="backToMainMenu()"><</button>
+
+    <!-- LEFT SECTION (TITLE / SUBTITLE, FEED BUTTON) -->
+
+    <div class="left-section">
+
+        <!-- TITLE -->
+        
+        <h1 class="video-feed-title">GLUBEST </h1>
+        
+        <!-- SUBTITLE -->
+        
+        <h1 class="video-feed-title subtitle">// FEEDER</h1>
+        
+        <!-- FEED BUTTON -->
+
+        <button class="button" onclick="sendFeedRequest()">FEED THE BEAST</button>
+
+    </div>
+
+    <!-- RIGHT SECTION (WINDOW: LAST FED, VIEWERS, CAMERA FEED) -->
+
+    <div class="right-section">
+        
+        <!-- WINDOW -->
+
+        <div class="window">
+
+            <!-- TOP BAR -->
+
+            <div class="top-bar">
+
+                <!-- LAST FED TEXT -->
+
+                <div class="last-fed">LAST FED // <b id="last-fed">UNKNOWN</b></div>
+                
+                <!-- VIEWER COUNT TEXT -->
+
+                <div class="viewer-count">VIEWERS // <b id="viewer-count">2</b></div>
+
+            </div>
+
+            <!-- BOTTOM BAR (CAMERA FEED) -->
+
+            <div class="bottom-bar" id="video-feed-box">[CAMERA FEED HERE]</div>
+
+        </div>
+
+    </div>
+
+    <!-- SCRIPT -->
+
+    <script src="/feeder/feeder.js"></script>
+
+</body>
+
+</html>
