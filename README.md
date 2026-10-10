@@ -1,5 +1,6 @@
 **note:** this project is part of my 'carryover' projects, meaning they were written a while ago. I just sanitized this project and put it on this public GitHub profile. Point is, this README may not be as detailed or accurate as from my contemporary projects. 
 
+
 # GLUBEST (SPRING 2025, CARRIED OVER FALL 2026)  
 
 Project for learning websockets n such. Was tasked with writing a project that involved web.. but being a nerd and all I already knew some stuff and found "just-web" to be boring.. so.. I ended up playing around with servers and getting this to work, an IoT cat feeder!
@@ -30,12 +31,15 @@ Some other minor features of this project:
 **Main page**: 
 - swipe through some cat photos taken during the development of the projects
 - vibe to some custom made music
+<img width="1378" height="775" alt="main_menu" src="https://github.com/user-attachments/assets/3469b021-2386-427f-a8b1-6278d7712393" />
+
 
 **Feed page (with a live example!)**
 - pretty obv, feed the cat!!!
 - also.. see the cat!!!
 
-[include screenshots]
+
+![glubest-demo (3) (1)](https://github.com/user-attachments/assets/0641dea9-6a79-4217-8315-bdfa69cc35bf)
 
 ## Running the program  
 
@@ -122,4 +126,8 @@ This is split into 2 parts: raspberry pi as the agent, and a better design for t
 
 ## bonus: cat photos!!!!!!
 Now as a reward for reading through all my yapping: cat photos!!!
+
+<img width="468" height="507" alt="cat_using" src="https://github.com/user-attachments/assets/0c6a4e53-98c0-46a3-883f-680a18ac4df8" />
+
+<img width="959" height="615" alt="cat_building" src="https://github.com/user-attachments/assets/7d42c3ad-f973-4f6e-ac66-17a48b24fa01" />
 
