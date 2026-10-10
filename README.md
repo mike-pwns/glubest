@@ -29,12 +29,14 @@ Some other minor features of this project:
 ## screenshots 
 
 <img width="1378" height="775" alt="main_menu" src="https://github.com/user-attachments/assets/3469b021-2386-427f-a8b1-6278d7712393" />
+
 **Main page**: 
 - swipe through some cat photos taken during the development of the projects
 - vibe to some custom made music
 
 ![glubest-demo (3) (1)](https://github.com/user-attachments/assets/0641dea9-6a79-4217-8315-bdfa69cc35bf)
-**Feed page (with a live example!)**
+
+**Feed page (with a live example! May take a second to load..)**
 - pretty obv, feed the cat!!!
 - also.. see the cat!!!
 
